@@ -1,12 +1,12 @@
-Multilingual FAQ System with WYSIWYG Support 🌍📑
+#Multilingual FAQ System with WYSIWYG Support# 🌍📑
 Welcome to the Multilingual FAQ System! This project provides a powerful FAQ platform that supports multiple languages and integrates with a WYSIWYG editor for better content management. 🚀
 
-Features ✨
-Multilingual Support: FAQs can be translated into multiple languages (English, Hindi, Bengali, Swahili, etc.) using the Google Translate API.
-WYSIWYG Editor: A Rich Text Editor (django-ckeditor) for managing and formatting the answers.
-API Endpoints: A fully functional API to fetch FAQs based on language preferences.
-Caching with Redis: FAQs are cached in Redis to provide faster responses.
-Admin Panel: A user-friendly Django admin interface to manage FAQs.
+#Features# ✨
+* ##Multilingual Support##: FAQs can be translated into multiple languages (English, Hindi, Bengali, Swahili, etc.) using the Google Translate API.
+* ##WYSIWYG Editor##: A Rich Text Editor (django-ckeditor) for managing and formatting the answers.
+* ##API Endpoints##: A fully functional API to fetch FAQs based on language preferences.
+* ##Caching with Redis##: FAQs are cached in Redis to provide faster responses.
+* ##Admin Panel##: A user-friendly Django admin interface to manage FAQs.
 Pagination: Pagination support for FAQ listings.
 Technologies Used 🛠️
 Django 3.2+: Backend Framework
