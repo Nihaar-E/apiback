@@ -20,10 +20,10 @@ Installation ⚡
 To get started with this project, follow the instructions below.
 
 Prerequisites 📦
-Python 3.8+
-Django 3.2+
-Redis (for caching)
-Steps to Set Up 🏗️
+* Python 3.8+
+* Django 3.2+
+* Redis (for caching)
+* Steps to Set Up 🏗️
 Clone the Repository:
 
 git clone https://github.com/punnayansaha07/multilingual-faq.git
